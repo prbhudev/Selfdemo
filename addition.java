@@ -1,5 +1,4 @@
-// this is am editing now
-
+//this is addition 
 public class SumOfNumbers1  
 {  
 public static void main(String args[])   
