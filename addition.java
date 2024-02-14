@@ -1,4 +1,4 @@
-//this is addition 
+//this is addition we doing it in azure
 public class SumOfNumbers1  
 {  
 public static void main(String args[])   
