@@ -1,5 +1,4 @@
-//this is addition we doing it in azure
-public class SumOfNumbers1  
+//We do some changes in azure pipeline   
 {  
 public static void main(String args[])   
 {  
